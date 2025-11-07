@@ -1,0 +1,1 @@
+execute as @s[tag=sl] run say hi

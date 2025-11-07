@@ -1,0 +1,2 @@
+execute if block -41 69 28 dark_oak_button ["facing_direction"=5,"button_pressed_bit"=true] run execute as @r positioned -41 69 28 run tellraw @p {"rawtext":[{"text":"§c- You cannot do that right now -"}]}
+execute if block -41 69 28 dark_oak_button ["facing_direction"=5,"button_pressed_bit"=true] run setblock -41 69 28 dark_oak_button ["facing_direction"=5]

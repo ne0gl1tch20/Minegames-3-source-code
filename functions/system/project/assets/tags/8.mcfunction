@@ -1,0 +1,2 @@
+execute as @a[tag=host] at @s run execute as @s[tag=!isAnswering] at @s run tellraw @s {"rawtext":[{"text":"§fIs Answering: §cNo§r"}]}
+execute as @a[tag=host] at @s run execute as @s[tag=isAnswering] at @s run tellraw @s {"rawtext":[{"text":"§fIs Answering: §aYes§r"}]}

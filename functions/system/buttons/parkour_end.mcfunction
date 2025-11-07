@@ -1,0 +1,1 @@
+execute if block 22 78 -6 stone_pressure_plate ["redstone_signal"=1] run function system/lobby/parkour/end

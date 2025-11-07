@@ -1,0 +1,2 @@
+execute as @a[tag=host] at @s run execute as @s[tag=!notNew] at @s run tellraw @s {"rawtext":[{"text":"§fisnewlyJoined: §cNo§r"}]}
+execute as @a[tag=host] at @s run execute as @s[tag=notNew] at @s run tellraw @s {"rawtext":[{"text":"§fisnewlyJoined: §aYes§r"}]}

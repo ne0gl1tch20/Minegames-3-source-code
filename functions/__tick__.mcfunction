@@ -1,0 +1,1 @@
+execute as @e[tag=system] at @s run function system/__tick__

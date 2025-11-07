@@ -1,0 +1,2 @@
+execute as @a[tag=host] at @s run execute as @s[tag=!afk] at @s run tellraw @s {"rawtext":[{"text":"§fAFK: §cNo§r"}]}
+execute as @a[tag=host] at @s run execute as @s[tag=afk] at @s run tellraw @s {"rawtext":[{"text":"§fAFK: §aYes§r"}]}

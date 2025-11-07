@@ -1,0 +1,1 @@
+function system/lobby/reset/errors

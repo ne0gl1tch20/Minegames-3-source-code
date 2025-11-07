@@ -1,0 +1,16 @@
+stopsound @s mg3.music1
+stopsound @s mg3.music2
+stopsound @s mg3.music3
+stopsound @s mg3.music4
+stopsound @s mg3.music5
+stopsound @s mg3.music6
+stopsound @s mg3.music7
+stopsound @s mg3.music8
+stopsound @s mg3.music9
+stopsound @s mg3.music10
+stopsound @s mg3.music11
+stopsound @s mg3.music12
+stopsound @s mg3.music13
+stopsound @s mg3.music14
+stopsound @s mg3.music15
+stopsound @s mg3.music16

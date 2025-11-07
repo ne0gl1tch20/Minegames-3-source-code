@@ -1,0 +1,16 @@
+execute as @e[tag=system,scores={musicrandom=1}] run scoreboard players set @s musiclength 4040
+execute as @e[tag=system,scores={musicrandom=2}] run scoreboard players set @s musiclength 1920
+execute as @e[tag=system,scores={musicrandom=3}] run scoreboard players set @s musiclength 13520
+execute as @e[tag=system,scores={musicrandom=4}] run scoreboard players set @s musiclength 5560
+execute as @e[tag=system,scores={musicrandom=5}] run scoreboard players set @s musiclength 4140
+execute as @e[tag=system,scores={musicrandom=6}] run scoreboard players set @s musiclength 4120
+execute as @e[tag=system,scores={musicrandom=7}] run scoreboard players set @s musiclength 4280
+execute as @e[tag=system,scores={musicrandom=8}] run scoreboard players set @s musiclength 4720
+execute as @e[tag=system,scores={musicrandom=9}] run scoreboard players set @s musiclength 5300
+execute as @e[tag=system,scores={musicrandom=10}] run scoreboard players set @s musiclength 6520
+execute as @e[tag=system,scores={musicrandom=11}] run scoreboard players set @s musiclength 4440
+execute as @e[tag=system,scores={musicrandom=12}] run scoreboard players set @s musiclength 4500
+execute as @e[tag=system,scores={musicrandom=13}] run scoreboard players set @s musiclength 4260
+execute as @e[tag=system,scores={musicrandom=14}] run scoreboard players set @s musiclength 3480
+execute as @e[tag=system,scores={musicrandom=15}] run scoreboard players set @s musiclength 3360
+execute as @e[tag=system,scores={musicrandom=16}] run scoreboard players set @s musiclength 4740

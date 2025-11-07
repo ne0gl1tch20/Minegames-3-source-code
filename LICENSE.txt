@@ -1,0 +1,16 @@
+=====[ LICENSE ]=====
+
+Name: @g0ld_.ne0._mc  
+Original Creator of Minegames 3: SuperProgram
+
+1. THANKS for downloading Minegames 3 and looking at this pack!
+
+2. You are allowed to use this project. However, you must not reupload, modify, remake, be in creative mode, or claim this map as your own. You're also not allowed to plagiarise the map unless you learn it. 
+
+3. @g0ld_.ne0._mc is not responsible for any errors or glitches. You are responsible for any damages on the map. We reserve the right to request the removal of any related content.
+
+4. Do not type /kill @e or disable the behavior pack itself, as it is very critical for the game to function.
+
+5. You can upload the gameplay video of the map. Be aware that you must give credit to the original owner (SuperProgram) to the MCPEDL link. No direct links are allowed as the monetization is important to the creator.
+
+6. To report bugs or issues, please contact me through the official Discord server! We're here to help! :)

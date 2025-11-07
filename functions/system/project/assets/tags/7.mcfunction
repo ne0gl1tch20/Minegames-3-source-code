@@ -1,0 +1,2 @@
+execute as @a[tag=host] at @s run execute as @s[tag=!winner] at @s run tellraw @s {"rawtext":[{"text":"§fWinner: §cNo§r"}]}
+execute as @a[tag=host] at @s run execute as @s[tag=winner] at @s run tellraw @s {"rawtext":[{"text":"§fWinner: §aYes§r"}]}

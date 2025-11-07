@@ -1,0 +1,6 @@
+gamerule commandblocksenabled true
+gamerule commandblockoutput false
+gamerule sendcommandfeedback false
+gamerule showcoordinates false
+difficulty easy
+gamerule showdeathmessages true

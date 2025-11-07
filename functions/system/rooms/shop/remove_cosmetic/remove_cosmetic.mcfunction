@@ -1,0 +1,12 @@
+tag @a[tag=remCos] remove sFTon
+tag @a[tag=remCos] remove sHTon
+tag @a[tag=remCos] remove sZHon
+tag @a[tag=remCos] remove sLiTon
+tag @a[tag=remCos] remove sCHon
+tag @a[tag=remCos] remove sNTon
+tag @a[tag=remCos] remove sETon
+tag @a[tag=remCos] remove sWHon
+tag @a[tag=remCos] remove sLTon
+tag @a[tag=remCos] remove sDHon
+tag @a[tag=remCos] remove sSHon
+clear @a[tag=remCos] skull

@@ -1,0 +1,2 @@
+execute as @a[tag=host] at @s run execute as @s[tag=!0f] at @s run tellraw @s {"rawtext":[{"text":"§fCamNPC: §cNo§r"}]}
+execute as @a[tag=host] at @s run execute as @s[tag=0f] at @s run tellraw @s {"rawtext":[{"text":"§fCamNPC: §aYes§r"}]}

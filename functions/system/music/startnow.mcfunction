@@ -1,0 +1,16 @@
+execute as @e[tag=system,scores={musicrandom=1}] run execute as @a[tag=ingame] at @s run playsound mg3.music1 @s ~~~ 0.8
+execute as @e[tag=system,scores={musicrandom=2}] run execute as @a[tag=ingame] at @s run playsound mg3.music2 @s ~~~ 0.8
+execute as @e[tag=system,scores={musicrandom=3}] run execute as @a[tag=ingame] at @s run playsound mg3.music3 @s ~~~ 0.8
+execute as @e[tag=system,scores={musicrandom=4}] run execute as @a[tag=ingame] at @s run playsound mg3.music4 @s ~~~ 0.8
+execute as @e[tag=system,scores={musicrandom=5}] run execute as @a[tag=ingame] at @s run playsound mg3.music5 @s ~~~ 0.8
+execute as @e[tag=system,scores={musicrandom=6}] run execute as @a[tag=ingame] at @s run playsound mg3.music6 @s ~~~ 0.8
+execute as @e[tag=system,scores={musicrandom=7}] run execute as @a[tag=ingame] at @s run playsound mg3.music7 @s ~~~ 0.8
+execute as @e[tag=system,scores={musicrandom=8}] run execute as @a[tag=ingame] at @s run playsound mg3.music8 @s ~~~ 0.8
+execute as @e[tag=system,scores={musicrandom=9}] run execute as @a[tag=ingame] at @s run playsound mg3.music9 @s ~~~ 0.8
+execute as @e[tag=system,scores={musicrandom=10}] run execute as @a[tag=ingame] at @s run playsound mg3.music10 @s ~~~ 0.8
+execute as @e[tag=system,scores={musicrandom=11}] run execute as @a[tag=ingame] at @s run playsound mg3.music11 @s ~~~ 0.8
+execute as @e[tag=system,scores={musicrandom=12}] run execute as @a[tag=ingame] at @s run playsound mg3.music12 @s ~~~ 0.8
+execute as @e[tag=system,scores={musicrandom=13}] run execute as @a[tag=ingame] at @s run playsound mg3.music13 @s ~~~ 0.8
+execute as @e[tag=system,scores={musicrandom=14}] run execute as @a[tag=ingame] at @s run playsound mg3.music14 @s ~~~ 0.8
+execute as @e[tag=system,scores={musicrandom=15}] run execute as @a[tag=ingame] at @s run playsound mg3.music15 @s ~~~ 0.8
+execute as @e[tag=system,scores={musicrandom=16}] run execute as @a[tag=ingame] at @s run playsound mg3.music16 @s ~~~ 0.8

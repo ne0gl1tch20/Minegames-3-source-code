@@ -1,0 +1,1 @@
+execute as @e[type=armor_stand] at @s run function system/entity/armor_stand/__tick__

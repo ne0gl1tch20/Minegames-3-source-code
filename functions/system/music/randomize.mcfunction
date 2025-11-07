@@ -1,0 +1,1 @@
+scoreboard players random @e[tag=system] musicrandom 1 16
