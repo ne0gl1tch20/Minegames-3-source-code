@@ -27,3 +27,11 @@ Even without the map, these files are a great way to see how complex Minecraft l
 ## 🎮 Have fun!
 
 Even without the original map, this project gives a peek into **advanced Minecraft scripting**. Dive in, explore the commands, and enjoy learning! 🚀
+
+---
+
+## 📝 Credits:
+
+Aden Lynn - Original Minegames 3 map
+
+G0ld_.Ne0 - Mcfunction scripter (i am sorry i didnt ask him hehe it is all by myself)
